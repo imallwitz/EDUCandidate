@@ -110,3 +110,17 @@ h2 {
   margin-left: 100px;
   margin-right: 100px;
 }
+
+.image-block {
+  display: flex;
+  justify-content: center;
+}
+
+.image-container {
+  margin: 50px;
+}
+
+.image-text {
+  font-size: 1.5em;
+  font-family: "Paytone One", sans-serif;
+}
