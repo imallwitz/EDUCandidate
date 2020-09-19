@@ -10,7 +10,6 @@ body{
 
 .title{
   color: rgb(54, 80, 109);
-  color: black;
   text-decoration: none;
   font-size: 1.5em;
 }
@@ -101,6 +100,12 @@ h1 {
   background-color: rgb(255, 194, 194);
   box-shadow: 0 0.2rem 0.25rem rgba(0, 0, 0, 0.2);
   margin: 15px;
+}
+
+.right-text {
+  color: rgb(54, 80, 109);
+  font-family: 'Paytone One', sans-serif;
+  text-align: center;
 }
 
 .mission-page {
