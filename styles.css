@@ -58,15 +58,6 @@ h1 {
   margin-left: 50px;
 }
 
-@font-face {
-    font-family: 'coolveticaregular';
-    src: url('file:///Users/victoria/Desktop/EDUCandidate-master/index.html') format('woff2'),
-         url('file:///Users/victoria/Desktop/EDUCandidate-master/index.html') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
 
 .main-page {
   display: flex;
