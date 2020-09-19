@@ -124,3 +124,26 @@ h2 {
   font-size: 1.5em;
   font-family: "Paytone One", sans-serif;
 }
+
+.contact-page {
+
+}
+
+.about-block {
+  display: flex;
+  margin-left: 50px;
+}
+
+.about-text-block {
+  text-align: left;
+  margin-left: 50px;
+  margin-right: 100px;
+}
+
+.about-pic {
+  width: 200px;
+}
+
+.name {
+  font-family: "Paytone One", sans-serif;
+}
