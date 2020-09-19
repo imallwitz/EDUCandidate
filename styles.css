@@ -10,6 +10,14 @@ body{
 
 .title{
   color: rgb(54, 80, 109);
+.title a{
+  color: black;
+  text-decoration: none;
+  font-size: 1.5em;
+}
+
+.title a:hover {
+  color: red;
 }
 
 /* Navigation Bar */
@@ -45,10 +53,9 @@ body{
   color: #293454;
 }
 
-/* .navbar #current-page {
+.navbar #current-page {
   color: #FFC83D;
 }
-*/
 
 h1 {
   font-family: 'Paytone One', sans-serif;
@@ -97,4 +104,61 @@ h1 {
   margin: 15px;
 }
 
+.mission-page {
+  text-align: justify;
+}
 
+.mission-page p, h2{
+  margin-left, margin-right: : 100px;
+}
+
+h2 {
+  font-family: "Paytone One", sans-serif;
+  font-size: 2em;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5em;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.image-block {
+  display: flex;
+  justify-content: center;
+}
+
+.image-container {
+  margin: 50px;
+}
+
+.image-text {
+  font-size: 1.5em;
+  font-family: "Paytone One", sans-serif;
+}
+
+.contact-page {
+
+}
+
+.about-block {
+  display: flex;
+  margin-left: 50px;
+}
+
+.about-text-block {
+  text-align: left;
+  margin-left: 50px;
+  margin-right: 100px;
+}
+
+.about-pic {
+  width: 200px;
+}
+
+.name {
+  font-family: "Paytone One", sans-serif;
+}
