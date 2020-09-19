@@ -51,22 +51,22 @@ body{
 */
 
 h1 {
-  font-family: sans-serif;
+  font-family: 'coolveticaregular';
   font-size: 1.5em;
   color: #f0f3fc;
   margin: 15px;
   margin-left: 50px;
 }
-/* 
+
 @font-face {
     font-family: 'coolveticaregular';
-    src: url('coolvetica_rg-webfont.woff2') format('woff2'),
-         url('coolvetica_rg-webfont.woff') format('woff');
+    src: url('file:///Users/victoria/Desktop/EDUCandidate-master/index.html') format('woff2'),
+         url('file:///Users/victoria/Desktop/EDUCandidate-master/index.html') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
-*/
+
 
 .main-page {
   display: flex;
