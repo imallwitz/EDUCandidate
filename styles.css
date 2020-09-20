@@ -224,6 +224,11 @@ h2 {
 
 /* presidential page */
 
+.presidential-page {
+  background-color: #E0EBF8;
+  padding: 15px 30px 180px;
+}
+
 .image-block {
   display: flex;
   justify-content: center;
@@ -268,7 +273,7 @@ h2 {
 
 .contact-page {
   background-color: #E0EBF8;
-  padding: 15px 100px 315px;
+  padding: 15px 100px 120px;
 }
 
 .about-block {
