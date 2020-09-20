@@ -97,10 +97,15 @@ h1 {
   text-align: center;
 }
 
+.main-page button {
+  background-color:rgb(255, 218, 198);
+}
+
 .find-button {
   font-family: sans-serif;
   font-size: 2em;
   text-align: center;
+
 }
 
 .right-block {
