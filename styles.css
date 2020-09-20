@@ -229,7 +229,12 @@ h2 {
   font-size: 1.5em;
   font-family: "Paytone One", sans-serif;
 }
-
+.policy-block {
+  font-family: "Paytone One", sans-serif;
+  display: flex;
+  margin-left: 100px;
+  margin-right: 100px;
+}
 /*.contact-page {
 
 }*/
