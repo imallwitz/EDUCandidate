@@ -228,19 +228,38 @@ h2 {
 }
 
 .image-container {
-  margin: 50px;
+  margin: 75px;
 }
 
 .image-text {
   font-size: 1.5em;
   font-family: "Paytone One", sans-serif;
 }
+
 .policy-block {
-  font-family: "Paytone One", sans-serif;
+  font-family: "Open Sans", sans-serif;
   display: flex;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin: 15px 300px 15px 300px;
+  justify-content: space-around;
+  text-align: justify;
 }
+
+.policy-block ul {
+  list-style: none;
+  width: 250px;
+}
+
+.policy-block li {
+  margin-bottom: 15px;
+  font-size: 1em;
+}
+
+.policy-title {
+  font-family: "Open Sans", sans-serif;;
+  font-weight: bold;
+  font-size: 1.25em;
+}
+
 /*.contact-page {
 
 }*/
