@@ -179,6 +179,10 @@ h1 {
   font-family: "Open Sans", sans-serif;
 }
 
+.upcoming-block {
+  margin-bottom: 50px;
+}
+
 
 /* mission page */
 
@@ -228,6 +232,12 @@ h2 {
 .about-block {
   display: flex;
   margin-left: 50px;
+  border: 5px solid white;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  margin-right: 50px;
+  background-color: white;
+  box-shadow: 5px 5px;
 }
 
 .about-text-block {
