@@ -132,6 +132,11 @@ h1 {
   padding: 75px 50px 2000px;
 }
 
+.search-block {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
 .search-title {
   font-family: "Paytone One", sans-serif;
   font-size: 1.5em;
@@ -163,6 +168,19 @@ h1 {
   padding: 20px;
   border-radius: 4px;
 }
+
+.ul-block {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 400px;
+  margin-right: 450px;
+}
+
+.upcoming-block ul {
+  list-style: none;
+  font-family: "Open Sans", sans-serif;
+}
+
 
 /* mission page */
 
