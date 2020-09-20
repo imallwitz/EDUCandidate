@@ -8,14 +8,15 @@ body{
   text-align: center;
 }
 
-.title{
+.title a{
   color: rgb(54, 80, 109);
   text-decoration: none;
-  font-size: 2.5em;
+  font-size: 2em;
 }
 
 .title a:hover {
   color: rgb(36, 56, 78);
+  text-decoration: none;
 }
 
 /* Navigation Bar */
@@ -79,7 +80,7 @@ h1 {
 .description-text {
   color: rgb(54, 80, 109);
   font-family: 'Paytone One', sans-serif;
-  font-size: 2.2em;
+  font-size: 2em;
   text-align: left;
 }
 
@@ -117,10 +118,54 @@ h1 {
 
 .city-dates {
   color: rgb(54, 80, 109);
-  font-family: 'Paytone One', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1.5em;
   text-align: center;
 }
+
+/* local elections page */
+
+.local-page {
+  display: flex;
+  flex-direction: column;
+}
+
+.search-block {
+}
+
+.search-title {
+  font-family: "Paytone One", sans-serif;
+  font-size: 1.5em;
+}
+
+.search-description {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1em;
+}
+
+.search-bar {
+  background-color: white;
+  height: 50px;
+  width: 600px;
+  left: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  margin: auto;
+}
+
+.search-bar img {
+  height: 40px;
+  margin-left: 10px;
+}
+
+.search-block button {
+  margin: 20px;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+/* mission page */
 
 .mission-page {
   text-align: justify;
@@ -144,6 +189,8 @@ h2 {
   margin-left: 100px;
   margin-right: 100px;
 }
+
+/* presidential page */
 
 .image-block {
   display: flex;
