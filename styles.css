@@ -128,6 +128,8 @@ h1 {
 .local-page {
   display: flex;
   flex-direction: column;
+  background-color: #E0EBF8;
+  padding: 75px 50px 2000px;
 }
 
 .search-block {
@@ -188,11 +190,14 @@ h1 {
 
 .mission-page {
   text-align: justify;
+  background-color: #E0EBF8;
+  padding: 75px 100px 315px;
 }
 
 .mission-page p, h2{
   margin-left: 100px;
   margin-right: 100px;
+
 }
 
 h2 {
